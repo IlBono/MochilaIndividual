@@ -1,0 +1,4 @@
+1) Fue creado por Linus Torvalds en el año 2005, para ser utilizado en el desarrollo del kernel de Linux. Torvalds describe git no como un sistema de c
+2) Actualmente, 2021, Github pertecene a Microsoft inc. tras una compra del mismo en una cifra millonaria.
+3) Tras mi busqueda no encuentro indicio de poder trabajar con github de otra forma que no sea desde la terminal.
+
